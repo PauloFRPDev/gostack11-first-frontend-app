@@ -21,7 +21,7 @@ This is the front-end REACT project that connects on [gostack11-firstBackendApp]
 ## How to run this program?
 1. you need to have the [backend](https://github.com/PauloFRPDev/gostack11-firstBackendApp) project
 2. run the backend project with `yarn dev` inside the project folder
-3. you need to clone this repository using `git clone https://github.com/PauloFRPDev/gostack11-firstBackendApp.git`
+3. you need to clone this repository using `git clone https://github.com/PauloFRPDev/gostack11-first-frontend-app.git`
 4. open the project folder into your favorite IDE
 5. run `yarn` if you use yarn or `npm install` if you use npm
 6. run `yarn dev` or `npm run dev`
